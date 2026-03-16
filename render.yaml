@@ -11,4 +11,3 @@ services:
         value: pavan
       - key: APP_PASSWORD
         value: swing2026
- 
