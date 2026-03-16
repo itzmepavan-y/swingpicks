@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: india-swing-picks
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: APP_USERNAME
+        value: pavan
+      - key: APP_PASSWORD
+        value: swing2026
+    disk:
+      name: swingdata
+      mountPath: /opt/render/project/src/static
+      sizeGB: 1

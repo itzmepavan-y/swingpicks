@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+static/swing_data.json
+static/swing_data_prev.json
+static/index_data.json
