@@ -1,0 +1,3578 @@
+{
+  "meta": {
+    "updated_at": "2026-03-16T21:36:21.386539",
+    "updated_date": "2026-03-16",
+    "total_stocks": 54,
+    "failed_stocks": [
+      "Tata Motors"
+    ],
+    "data_source": "Yahoo Finance NSE via yfinance",
+    "note": "ATR-based targets/SL. Chart patterns = static (manual analysis required). Fundamentals from quarterly filings via yfinance."
+  },
+  "stocks": [
+    {
+      "name": "Infosys",
+      "nse": "INFY",
+      "cmp": 1249.8,
+      "tgt": 1367.96,
+      "sl": 1199.16,
+      "sig": "mb",
+      "score": 8.1,
+      "stars": {
+        "o": 3.5,
+        "f": 90,
+        "t": 40,
+        "g": 88
+      },
+      "sector": "it",
+      "sector_tag": "IT",
+      "pattern": "Base Accumulation",
+      "high52w": 1728.0,
+      "low52w": 1224.2,
+      "high_date": "Feb '26",
+      "disc": 27.7,
+      "rsi": {
+        "v": "23.6 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 23.6. Below 50 = momentum weak. ATR = \u20b933.76. VWMA9=1287.75, VWMA20=1316.71, VWMA50=1435.82.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1287.75, VWMA20=1316.71, VWMA50=1435.82. CMP=1249.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "17.5x",
+        "c": "pa",
+        "t": "P/E of 17.5: you pay \u20b917.5 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "32.7%",
+        "c": "pg",
+        "t": "ROE 32.7% \u2014 for every \u20b9100 shareholders own, company earns \u20b932.7 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.11",
+        "c": "pg",
+        "t": "Debt/Equity = 0.11. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "360.0%",
+        "c": "pg",
+        "t": "Dividend yield 360.0% \u2014 \u20b936000.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.5%",
+      "risk": "med",
+      "risk_reason": "Score 8.1/10. Disc from 52W high: 27.7%. ROE: 32.7%. D/E: 0.11. RSI: 23.6. ATR: 33.76.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b950.6L Cr",
+      "eps": 71.4,
+      "pb": 5.92,
+      "fetched_at": "2026-03-16T21:35:13.051318"
+    },
+    {
+      "name": "Canara Bank",
+      "nse": "CANBK",
+      "cmp": 134.51,
+      "tgt": 152.5,
+      "sl": 126.8,
+      "sig": "mb",
+      "score": 8.0,
+      "stars": {
+        "o": 3.5,
+        "f": 90,
+        "t": 40,
+        "g": 88
+      },
+      "sector": "banking",
+      "sector_tag": "Banking",
+      "pattern": "Base Accumulation",
+      "high52w": 162.89,
+      "low52w": 79.33,
+      "high_date": "Feb '26",
+      "disc": 17.4,
+      "rsi": {
+        "v": "32.0 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 32.0. Below 50 = momentum weak. ATR = \u20b95.14. VWMA9=141.7, VWMA20=149.08, VWMA50=150.07.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=141.7, VWMA20=149.08, VWMA50=150.07. CMP=134.51. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "6.04x",
+        "c": "pg",
+        "t": "P/E of 6.04: you pay \u20b96.04 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "18.2%",
+        "c": "pg",
+        "t": "ROE 18.2% \u2014 for every \u20b9100 shareholders own, company earns \u20b918.2 annually. Good.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "297.0%",
+        "c": "pg",
+        "t": "Dividend yield 297.0% \u2014 \u20b929700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.4%",
+      "risk": "med",
+      "risk_reason": "Score 8.0/10. Disc from 52W high: 17.4%. ROE: 18.2%. D/E: 0.0. RSI: 32.0. ATR: 5.14.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b912.2L Cr",
+      "eps": 22.28,
+      "pb": 1.04,
+      "fetched_at": "2026-03-16T21:35:06.183514"
+    },
+    {
+      "name": "Coal India",
+      "nse": "COALINDIA",
+      "cmp": 460.3,
+      "tgt": 508.88,
+      "sl": 439.48,
+      "sig": "mb",
+      "score": 8.0,
+      "stars": {
+        "o": 3.5,
+        "f": 65,
+        "t": 100,
+        "g": 60
+      },
+      "sector": "energy",
+      "sector_tag": "Energy",
+      "pattern": "Base Accumulation",
+      "high52w": 476.0,
+      "low52w": 332.62,
+      "high_date": "Mar '26",
+      "disc": 3.3,
+      "rsi": {
+        "v": "63.1 \u2014 Strong",
+        "c": "pg",
+        "t": "RSI is at 63.1. Above 50 = momentum positive. ATR = \u20b913.88. VWMA9=452.06, VWMA20=443.32, VWMA50=432.73.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "All 3 \u2713",
+        "c": "pg",
+        "t": "VWMA9=452.06, VWMA20=443.32, VWMA50=432.73. CMP=460.3. All three above = strong bull trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "9.5x",
+        "c": "pg",
+        "t": "P/E of 9.5: you pay \u20b99.5 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.13",
+        "c": "pg",
+        "t": "Debt/Equity = 0.13. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "471.0%",
+        "c": "pg",
+        "t": "Dividend yield 471.0% \u2014 \u20b947100.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+10.6%",
+      "risk": "med",
+      "risk_reason": "Score 8.0/10. Disc from 52W high: 3.3%. ROE: 0.0%. D/E: 0.13. RSI: 63.1. ATR: 13.88.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b928.4L Cr",
+      "eps": 48.43,
+      "pb": 2.69,
+      "fetched_at": "2026-03-16T21:35:40.308308"
+    },
+    {
+      "name": "HCL Technologies",
+      "nse": "HCLTECH",
+      "cmp": 1328.6,
+      "tgt": 1466.01,
+      "sl": 1269.71,
+      "sig": "mb",
+      "score": 7.8,
+      "stars": {
+        "o": 3.5,
+        "f": 90,
+        "t": 40,
+        "g": 78
+      },
+      "sector": "it",
+      "sector_tag": "IT",
+      "pattern": "Base Accumulation",
+      "high52w": 1780.1,
+      "low52w": 1258.64,
+      "high_date": "Feb '26",
+      "disc": 25.4,
+      "rsi": {
+        "v": "26.9 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 26.9. Below 50 = momentum weak. ATR = \u20b939.26. VWMA9=1349.76, VWMA20=1381.04, VWMA50=1525.49.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1349.76, VWMA20=1381.04, VWMA50=1525.49. CMP=1328.6. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "21.89x",
+        "c": "pa",
+        "t": "P/E of 21.89: you pay \u20b921.89 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "23.2%",
+        "c": "pg",
+        "t": "ROE 23.2% \u2014 for every \u20b9100 shareholders own, company earns \u20b923.2 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.1",
+        "c": "pg",
+        "t": "Debt/Equity = 0.1. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "407.0%",
+        "c": "pg",
+        "t": "Dividend yield 407.0% \u2014 \u20b940700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+10.3%",
+      "risk": "med",
+      "risk_reason": "Score 7.8/10. Disc from 52W high: 25.4%. ROE: 23.2%. D/E: 0.1. RSI: 26.9. ATR: 39.26.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b935.9L Cr",
+      "eps": 60.7,
+      "pb": 4.79,
+      "fetched_at": "2026-03-16T21:35:14.529745"
+    },
+    {
+      "name": "Wipro",
+      "nse": "WIPRO",
+      "cmp": 195.11,
+      "tgt": 212.82,
+      "sl": 187.52,
+      "sig": "mb",
+      "score": 7.8,
+      "stars": {
+        "o": 3.5,
+        "f": 80,
+        "t": 40,
+        "g": 76
+      },
+      "sector": "it",
+      "sector_tag": "IT",
+      "pattern": "Base Accumulation",
+      "high52w": 266.23,
+      "low52w": 192.77,
+      "high_date": "Dec '25",
+      "disc": 26.7,
+      "rsi": {
+        "v": "28.0 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 28.0. Below 50 = momentum weak. ATR = \u20b95.06. VWMA9=198.8, VWMA20=203.62, VWMA50=221.88.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=198.8, VWMA20=203.62, VWMA50=221.88. CMP=195.11. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "15.45x",
+        "c": "pa",
+        "t": "P/E of 15.45: you pay \u20b915.45 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "15.2%",
+        "c": "pa",
+        "t": "ROE 15.2% \u2014 for every \u20b9100 shareholders own, company earns \u20b915.2 annually. Good.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.22",
+        "c": "pg",
+        "t": "Debt/Equity = 0.22. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "860.0%",
+        "c": "pg",
+        "t": "Dividend yield 860.0% \u2014 \u20b986000.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.1%",
+      "risk": "med",
+      "risk_reason": "Score 7.8/10. Disc from 52W high: 26.7%. ROE: 15.2%. D/E: 0.22. RSI: 28.0. ATR: 5.06.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b920.4L Cr",
+      "eps": 12.63,
+      "pb": 2.28,
+      "fetched_at": "2026-03-16T21:35:17.258204"
+    },
+    {
+      "name": "Mphasis",
+      "nse": "MPHASIS",
+      "cmp": 2081.1,
+      "tgt": 2368.03,
+      "sl": 1958.13,
+      "sig": "mb",
+      "score": 7.5,
+      "stars": {
+        "o": 3.0,
+        "f": 80,
+        "t": 40,
+        "g": 66
+      },
+      "sector": "it",
+      "sector_tag": "IT",
+      "pattern": "Base Accumulation",
+      "high52w": 3037.2,
+      "low52w": 2004.5,
+      "high_date": "Sep '25",
+      "disc": 31.5,
+      "rsi": {
+        "v": "18.8 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 18.8. Below 50 = momentum weak. ATR = \u20b981.98. VWMA9=2198.2, VWMA20=2276.1, VWMA50=2539.52.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=2198.2, VWMA20=2276.1, VWMA50=2539.52. CMP=2081.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "22.06x",
+        "c": "pa",
+        "t": "P/E of 22.06: you pay \u20b922.06 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "18.7%",
+        "c": "pg",
+        "t": "ROE 18.7% \u2014 for every \u20b9100 shareholders own, company earns \u20b918.7 annually. Good.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.24",
+        "c": "pg",
+        "t": "Debt/Equity = 0.24. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "270.0%",
+        "c": "pg",
+        "t": "Dividend yield 270.0% \u2014 \u20b927000.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.8%",
+      "risk": "med",
+      "risk_reason": "Score 7.5/10. Disc from 52W high: 31.5%. ROE: 18.7%. D/E: 0.24. RSI: 18.8. ATR: 81.98.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b94.0L Cr",
+      "eps": 94.32,
+      "pb": 3.9,
+      "fetched_at": "2026-03-16T21:35:15.994463"
+    },
+    {
+      "name": "REC Ltd",
+      "nse": "RECLTD",
+      "cmp": 332.45,
+      "tgt": 374.8,
+      "sl": 314.3,
+      "sig": "mb",
+      "score": 7.4,
+      "stars": {
+        "o": 4.0,
+        "f": 83,
+        "t": 45,
+        "g": 100
+      },
+      "sector": "banking",
+      "sector_tag": "Fin. Services",
+      "pattern": "Base Accumulation",
+      "high52w": 429.15,
+      "low52w": 321.0,
+      "high_date": "Apr '25",
+      "disc": 22.5,
+      "rsi": {
+        "v": "42.1 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 42.1. Below 50 = momentum weak. ATR = \u20b912.1. VWMA9=334.71, VWMA20=342.41, VWMA50=358.7.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=334.71, VWMA20=342.41, VWMA50=358.7. CMP=332.45. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "5.09x",
+        "c": "pg",
+        "t": "P/E of 5.09: you pay \u20b95.09 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "21.5%",
+        "c": "pg",
+        "t": "ROE 21.5% \u2014 for every \u20b9100 shareholders own, company earns \u20b921.5 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "6.66",
+        "c": "pr",
+        "t": "Debt/Equity = 6.66. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "733.0%",
+        "c": "pg",
+        "t": "Dividend yield 733.0% \u2014 \u20b973300.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.7%",
+      "risk": "high",
+      "risk_reason": "Score 7.4/10. Disc from 52W high: 22.5%. ROE: 21.5%. D/E: 6.66. RSI: 42.1. ATR: 12.1.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b98.8L Cr",
+      "eps": 65.37,
+      "pb": 1.05,
+      "fetched_at": "2026-03-16T21:35:11.802112"
+    },
+    {
+      "name": "Persistent Systems",
+      "nse": "PERSISTENT",
+      "cmp": 4638.8,
+      "tgt": 5405.12,
+      "sl": 4310.38,
+      "sig": "mb",
+      "score": 7.2,
+      "stars": {
+        "o": 3.0,
+        "f": 80,
+        "t": 40,
+        "g": 68
+      },
+      "sector": "it",
+      "sector_tag": "IT",
+      "pattern": "Base Accumulation",
+      "high52w": 6575.41,
+      "low52w": 4123.0,
+      "high_date": "Dec '25",
+      "disc": 29.5,
+      "rsi": {
+        "v": "28.5 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 28.5. Below 50 = momentum weak. ATR = \u20b9218.95. VWMA9=4731.2, VWMA20=4882.73, VWMA50=5440.44.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=4731.2, VWMA20=4882.73, VWMA50=5440.44. CMP=4638.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "41.84x",
+        "c": "pr",
+        "t": "P/E of 41.84: you pay \u20b941.84 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "25.0%",
+        "c": "pg",
+        "t": "ROE 25.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b925.0 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.06",
+        "c": "pg",
+        "t": "Debt/Equity = 0.06. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "95.0%",
+        "c": "pg",
+        "t": "Dividend yield 95.0% \u2014 \u20b99500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+16.5%",
+      "risk": "med",
+      "risk_reason": "Score 7.2/10. Disc from 52W high: 29.5%. ROE: 25.0%. D/E: 0.06. RSI: 28.5. ATR: 218.95.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b97.3L Cr",
+      "eps": 110.87,
+      "pb": 9.32,
+      "fetched_at": "2026-03-16T21:35:18.524885"
+    },
+    {
+      "name": "NMDC",
+      "nse": "NMDC",
+      "cmp": 77.56,
+      "tgt": 87.53,
+      "sl": 73.28,
+      "sig": "mb",
+      "score": 7.1,
+      "stars": {
+        "o": 3.0,
+        "f": 65,
+        "t": 45,
+        "g": 60
+      },
+      "sector": "metals",
+      "sector_tag": "Mining",
+      "pattern": "Base Accumulation",
+      "high52w": 84.16,
+      "low52w": 56.98,
+      "high_date": "Jan '26",
+      "disc": 7.8,
+      "rsi": {
+        "v": "43.5 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 43.5. Below 50 = momentum weak. ATR = \u20b92.85. VWMA9=78.87, VWMA20=79.87, VWMA50=80.26.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=78.87, VWMA20=79.87, VWMA50=80.26. CMP=77.56. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "9.88x",
+        "c": "pg",
+        "t": "P/E of 9.88: you pay \u20b99.88 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.11",
+        "c": "pg",
+        "t": "Debt/Equity = 0.11. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "445.0%",
+        "c": "pg",
+        "t": "Dividend yield 445.0% \u2014 \u20b944500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.9%",
+      "risk": "med",
+      "risk_reason": "Score 7.1/10. Disc from 52W high: 7.8%. ROE: 0.0%. D/E: 0.11. RSI: 43.5. ATR: 2.85.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b96.8L Cr",
+      "eps": 7.85,
+      "pb": 2.1,
+      "fetched_at": "2026-03-16T21:35:44.734549"
+    },
+    {
+      "name": "HDFC Bank",
+      "nse": "HDFCBANK",
+      "cmp": 840.6,
+      "tgt": 913.19,
+      "sl": 809.49,
+      "sig": "mb",
+      "score": 7.0,
+      "stars": {
+        "o": 3.0,
+        "f": 70,
+        "t": 40,
+        "g": 56
+      },
+      "sector": "banking",
+      "sector_tag": "Banking",
+      "pattern": "Base Accumulation",
+      "high52w": 1020.5,
+      "low52w": 812.0,
+      "high_date": "Oct '25",
+      "disc": 17.6,
+      "rsi": {
+        "v": "34.5 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 34.5. Below 50 = momentum weak. ATR = \u20b920.74. VWMA9=845.1, VWMA20=871.89, VWMA50=908.93.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=845.1, VWMA20=871.89, VWMA50=908.93. CMP=840.6. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "18.74x",
+        "c": "pa",
+        "t": "P/E of 18.74: you pay \u20b918.74 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "14.0%",
+        "c": "pa",
+        "t": "ROE 14.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b914.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "135.0%",
+        "c": "pg",
+        "t": "Dividend yield 135.0% \u2014 \u20b913500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+8.6%",
+      "risk": "med",
+      "risk_reason": "Score 7.0/10. Disc from 52W high: 17.6%. ROE: 14.0%. D/E: 0.0. RSI: 34.5. ATR: 20.74.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b9129.4L Cr",
+      "eps": 44.85,
+      "pb": 2.29,
+      "fetched_at": "2026-03-16T21:35:03.411676"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "nse": "MARUTI",
+      "cmp": 12757.0,
+      "tgt": 14351.01,
+      "sl": 12073.85,
+      "sig": "mb",
+      "score": 7.0,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 38
+      },
+      "sector": "auto",
+      "sector_tag": "Auto",
+      "pattern": "Base Accumulation",
+      "high52w": 17370.0,
+      "low52w": 10941.03,
+      "high_date": "Jan '26",
+      "disc": 26.6,
+      "rsi": {
+        "v": "27.6 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 27.6. Below 50 = momentum weak. ATR = \u20b9455.43. VWMA9=13346.19, VWMA20=13945.78, VWMA50=14805.03.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=13346.19, VWMA20=13945.78, VWMA50=14805.03. CMP=12757.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "26.87x",
+        "c": "pa",
+        "t": "P/E of 26.87: you pay \u20b926.87 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "107.0%",
+        "c": "pg",
+        "t": "Dividend yield 107.0% \u2014 \u20b910700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.5%",
+      "risk": "med",
+      "risk_reason": "Score 7.0/10. Disc from 52W high: 26.6%. ROE: 0.0%. D/E: 0.0. RSI: 27.6. ATR: 455.43.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b940.1L Cr",
+      "eps": 474.68,
+      "pb": 4.02,
+      "fetched_at": "2026-03-16T21:35:33.920504"
+    },
+    {
+      "name": "NALCO",
+      "nse": "NATIONALUM",
+      "cmp": 372.25,
+      "tgt": 435.63,
+      "sl": 345.08,
+      "sig": "mb",
+      "score": 7.0,
+      "stars": {
+        "o": 3.0,
+        "f": 65,
+        "t": 60,
+        "g": 48
+      },
+      "sector": "metals",
+      "sector_tag": "Metals",
+      "pattern": "Base Accumulation",
+      "high52w": 426.16,
+      "low52w": 132.45,
+      "high_date": "Jan '26",
+      "disc": 12.7,
+      "rsi": {
+        "v": "50.6 \u2014 Bullish",
+        "c": "pg",
+        "t": "RSI is at 50.6. Above 50 = momentum positive. ATR = \u20b918.11. VWMA9=390.01, VWMA20=378.28, VWMA50=367.59.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 50 only",
+        "c": "pr",
+        "t": "VWMA9=390.01, VWMA20=378.28, VWMA50=367.59. CMP=372.25. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "11.14x",
+        "c": "pg",
+        "t": "P/E of 11.14: you pay \u20b911.14 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "387.0%",
+        "c": "pg",
+        "t": "Dividend yield 387.0% \u2014 \u20b938700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+17.0%",
+      "risk": "med",
+      "risk_reason": "Score 7.0/10. Disc from 52W high: 12.7%. ROE: 0.0%. D/E: 0.0. RSI: 50.6. ATR: 18.11.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b96.8L Cr",
+      "eps": 33.43,
+      "pb": 3.44,
+      "fetched_at": "2026-03-16T21:35:46.083184"
+    },
+    {
+      "name": "Emami",
+      "nse": "EMAMILTD",
+      "cmp": 424.1,
+      "tgt": 473.59,
+      "sl": 402.89,
+      "sig": "mb",
+      "score": 7.0,
+      "stars": {
+        "o": 2.5,
+        "f": 55,
+        "t": 40,
+        "g": 38
+      },
+      "sector": "consumer",
+      "sector_tag": "FMCG",
+      "pattern": "Base Accumulation",
+      "high52w": 636.45,
+      "low52w": 405.05,
+      "high_date": "May '25",
+      "disc": 33.4,
+      "rsi": {
+        "v": "28.1 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 28.1. Below 50 = momentum weak. ATR = \u20b914.14. VWMA9=442.92, VWMA20=458.28, VWMA50=483.94.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=442.92, VWMA20=458.28, VWMA50=483.94. CMP=424.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "23.33x",
+        "c": "pa",
+        "t": "P/E of 23.33: you pay \u20b923.33 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.02",
+        "c": "pg",
+        "t": "Debt/Equity = 0.02. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "288.0%",
+        "c": "pg",
+        "t": "Dividend yield 288.0% \u2014 \u20b928800.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.7%",
+      "risk": "med",
+      "risk_reason": "Score 7.0/10. Disc from 52W high: 33.4%. ROE: 0.0%. D/E: 0.02. RSI: 28.1. ATR: 14.14.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b91.9L Cr",
+      "eps": 18.18,
+      "pb": 6.31,
+      "fetched_at": "2026-03-16T21:35:54.175305"
+    },
+    {
+      "name": "ONGC",
+      "nse": "ONGC",
+      "cmp": 260.45,
+      "tgt": 291.32,
+      "sl": 247.22,
+      "sig": "w",
+      "score": 6.9,
+      "stars": {
+        "o": 3.0,
+        "f": 65,
+        "t": 45,
+        "g": 60
+      },
+      "sector": "energy",
+      "sector_tag": "Oil & Gas",
+      "pattern": "Base Accumulation",
+      "high52w": 293.0,
+      "low52w": 194.47,
+      "high_date": "Mar '26",
+      "disc": 11.1,
+      "rsi": {
+        "v": "41.8 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 41.8. Below 50 = momentum weak. ATR = \u20b98.82. VWMA9=272.33, VWMA20=274.23, VWMA50=263.51.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=272.33, VWMA20=274.23, VWMA50=263.51. CMP=260.45. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "8.61x",
+        "c": "pg",
+        "t": "P/E of 8.61: you pay \u20b98.61 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.44",
+        "c": "pg",
+        "t": "Debt/Equity = 0.44. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "700.0%",
+        "c": "pg",
+        "t": "Dividend yield 700.0% \u2014 \u20b970000.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.9%",
+      "risk": "high",
+      "risk_reason": "Score 6.9/10. Disc from 52W high: 11.1%. ROE: 0.0%. D/E: 0.44. RSI: 41.8. ATR: 8.82.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b932.8L Cr",
+      "eps": 30.24,
+      "pb": 0.89,
+      "fetched_at": "2026-03-16T21:35:37.788177"
+    },
+    {
+      "name": "NTPC",
+      "nse": "NTPC",
+      "cmp": 382.4,
+      "tgt": 420.72,
+      "sl": 365.97,
+      "sig": "w",
+      "score": 6.9,
+      "stars": {
+        "o": 3.0,
+        "f": 50,
+        "t": 100,
+        "g": 38
+      },
+      "sector": "energy",
+      "sector_tag": "Power",
+      "pattern": "Base Accumulation",
+      "high52w": 394.5,
+      "low52w": 313.09,
+      "high_date": "Mar '26",
+      "disc": 3.1,
+      "rsi": {
+        "v": "58.1 \u2014 Bullish",
+        "c": "pg",
+        "t": "RSI is at 58.1. Above 50 = momentum positive. ATR = \u20b910.95. VWMA9=381.09, VWMA20=379.33, VWMA50=362.96.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "All 3 \u2713",
+        "c": "pg",
+        "t": "VWMA9=381.09, VWMA20=379.33, VWMA50=362.96. CMP=382.4. All three above = strong bull trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "21.16x",
+        "c": "pa",
+        "t": "P/E of 21.16: you pay \u20b921.16 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "1.28",
+        "c": "pa",
+        "t": "Debt/Equity = 1.28. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "295.0%",
+        "c": "pg",
+        "t": "Dividend yield 295.0% \u2014 \u20b929500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+10.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.9/10. Disc from 52W high: 3.1%. ROE: 0.0%. D/E: 1.28. RSI: 58.1. ATR: 10.95.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b937.1L Cr",
+      "eps": 18.07,
+      "pb": 1.93,
+      "fetched_at": "2026-03-16T21:35:39.062573"
+    },
+    {
+      "name": "ITC",
+      "nse": "ITC",
+      "cmp": 308.25,
+      "tgt": 327.85,
+      "sl": 299.85,
+      "sig": "w",
+      "score": 6.9,
+      "stars": {
+        "o": 2.5,
+        "f": 55,
+        "t": 45,
+        "g": 38
+      },
+      "sector": "consumer",
+      "sector_tag": "FMCG",
+      "pattern": "Base Accumulation",
+      "high52w": 427.21,
+      "low52w": 295.8,
+      "high_date": "May '25",
+      "disc": 27.8,
+      "rsi": {
+        "v": "41.3 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 41.3. Below 50 = momentum weak. ATR = \u20b95.6. VWMA9=307.79, VWMA20=315.78, VWMA50=322.78.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 9 only",
+        "c": "pr",
+        "t": "VWMA9=307.79, VWMA20=315.78, VWMA50=322.78. CMP=308.25. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "18.97x",
+        "c": "pa",
+        "t": "P/E of 18.97: you pay \u20b918.97 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.01",
+        "c": "pg",
+        "t": "Debt/Equity = 0.01. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "476.0%",
+        "c": "pg",
+        "t": "Dividend yield 476.0% \u2014 \u20b947600.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+6.4%",
+      "risk": "high",
+      "risk_reason": "Score 6.9/10. Disc from 52W high: 27.8%. ROE: 0.0%. D/E: 0.01. RSI: 41.3. ATR: 5.6.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b938.6L Cr",
+      "eps": 16.25,
+      "pb": 5.44,
+      "fetched_at": "2026-03-16T21:35:51.645579"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "nse": "KOTAKBANK",
+      "cmp": 369.85,
+      "tgt": 402.44,
+      "sl": 355.89,
+      "sig": "w",
+      "score": 6.8,
+      "stars": {
+        "o": 2.5,
+        "f": 55,
+        "t": 40,
+        "g": 38
+      },
+      "sector": "banking",
+      "sector_tag": "Banking",
+      "pattern": "Base Accumulation",
+      "high52w": 459.85,
+      "low52w": 363.4,
+      "high_date": "Apr '25",
+      "disc": 19.6,
+      "rsi": {
+        "v": "27.5 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 27.5. Below 50 = momentum weak. ATR = \u20b99.31. VWMA9=384.04, VWMA20=398.14, VWMA50=411.83.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=384.04, VWMA20=398.14, VWMA50=411.83. CMP=369.85. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "19.58x",
+        "c": "pa",
+        "t": "P/E of 19.58: you pay \u20b919.58 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "14.0%",
+        "c": "pg",
+        "t": "Dividend yield 14.0% \u2014 \u20b91400.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+8.8%",
+      "risk": "high",
+      "risk_reason": "Score 6.8/10. Disc from 52W high: 19.6%. ROE: 0.0%. D/E: 0.0. RSI: 27.5. ATR: 9.31.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b936.8L Cr",
+      "eps": 18.89,
+      "pb": 2.19,
+      "fetched_at": "2026-03-16T21:35:07.434808"
+    },
+    {
+      "name": "IRFC",
+      "nse": "IRFC",
+      "cmp": 96.44,
+      "tgt": 108.69,
+      "sl": 91.19,
+      "sig": "w",
+      "score": 6.7,
+      "stars": {
+        "o": 2.5,
+        "f": 53,
+        "t": 40,
+        "g": 66
+      },
+      "sector": "infra",
+      "sector_tag": "Rail Finance",
+      "pattern": "Base Accumulation",
+      "high52w": 146.15,
+      "low52w": 94.27,
+      "high_date": "Jun '25",
+      "disc": 34.0,
+      "rsi": {
+        "v": "30.1 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 30.1. Below 50 = momentum weak. ATR = \u20b93.5. VWMA9=97.71, VWMA20=101.79, VWMA50=110.7.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=97.71, VWMA20=101.79, VWMA50=110.7. CMP=96.44. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "17.99x",
+        "c": "pa",
+        "t": "P/E of 17.99: you pay \u20b917.99 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "12.9%",
+        "c": "pa",
+        "t": "ROE 12.9% \u2014 for every \u20b9100 shareholders own, company earns \u20b912.9 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "7.45",
+        "c": "pr",
+        "t": "Debt/Equity = 7.45. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "298.0%",
+        "c": "pg",
+        "t": "Dividend yield 298.0% \u2014 \u20b929800.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.7%",
+      "risk": "high",
+      "risk_reason": "Score 6.7/10. Disc from 52W high: 34.0%. ROE: 12.9%. D/E: 7.45. RSI: 30.1. ATR: 3.5.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b912.6L Cr",
+      "eps": 5.36,
+      "pb": 2.22,
+      "fetched_at": "2026-03-16T21:36:06.426431"
+    },
+    {
+      "name": "Deepak Nitrite",
+      "nse": "DEEPAKNTR",
+      "cmp": 1391.7,
+      "tgt": 1558.76,
+      "sl": 1320.11,
+      "sig": "w",
+      "score": 6.7,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "infra",
+      "sector_tag": "Chemicals",
+      "pattern": "Base Accumulation",
+      "high52w": 2165.04,
+      "low52w": 1383.5,
+      "high_date": "May '25",
+      "disc": 35.7,
+      "rsi": {
+        "v": "26.8 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 26.8. Below 50 = momentum weak. ATR = \u20b947.73. VWMA9=1479.96, VWMA20=1528.58, VWMA50=1590.87.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1479.96, VWMA20=1528.58, VWMA50=1590.87. CMP=1391.7. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "35.58x",
+        "c": "pr",
+        "t": "P/E of 35.58: you pay \u20b935.58 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.22",
+        "c": "pg",
+        "t": "Debt/Equity = 0.22. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "52.0%",
+        "c": "pg",
+        "t": "Dividend yield 52.0% \u2014 \u20b95200.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.7/10. Disc from 52W high: 35.7%. ROE: 0.0%. D/E: 0.22. RSI: 26.8. ATR: 47.73.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b91.9L Cr",
+      "eps": 39.11,
+      "pb": 3.44,
+      "fetched_at": "2026-03-16T21:36:08.952360"
+    },
+    {
+      "name": "Power Finance Corp",
+      "nse": "PFC",
+      "cmp": 406.25,
+      "tgt": 461.73,
+      "sl": 382.48,
+      "sig": "w",
+      "score": 6.6,
+      "stars": {
+        "o": 3.0,
+        "f": 48,
+        "t": 60,
+        "g": 60
+      },
+      "sector": "banking",
+      "sector_tag": "Fin. Services",
+      "pattern": "Base Accumulation",
+      "high52w": 429.33,
+      "low52w": 326.68,
+      "high_date": "Apr '25",
+      "disc": 5.4,
+      "rsi": {
+        "v": "51.2 \u2014 Bullish",
+        "c": "pg",
+        "t": "RSI is at 51.2. Above 50 = momentum positive. ATR = \u20b915.85. VWMA9=406.25, VWMA20=409.83, VWMA50=394.06.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 50 only",
+        "c": "pr",
+        "t": "VWMA9=406.25, VWMA20=409.83, VWMA50=394.06. CMP=406.25. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "5.32x",
+        "c": "pg",
+        "t": "P/E of 5.32: you pay \u20b95.32 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "6.03",
+        "c": "pr",
+        "t": "Debt/Equity = 6.03. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "394.0%",
+        "c": "pg",
+        "t": "Dividend yield 394.0% \u2014 \u20b939400.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.7%",
+      "risk": "high",
+      "risk_reason": "Score 6.6/10. Disc from 52W high: 5.4%. ROE: 0.0%. D/E: 6.03. RSI: 51.2. ATR: 15.85.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b913.4L Cr",
+      "eps": 76.42,
+      "pb": 1.06,
+      "fetched_at": "2026-03-16T21:35:10.130756"
+    },
+    {
+      "name": "Mazagon Dock",
+      "nse": "MAZDOCK",
+      "cmp": 2331.8,
+      "tgt": 2714.11,
+      "sl": 2167.96,
+      "sig": "w",
+      "score": 6.6,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "defence",
+      "sector_tag": "Shipbuilding",
+      "pattern": "Base Accumulation",
+      "high52w": 3751.65,
+      "low52w": 2125.9,
+      "high_date": "May '25",
+      "disc": 37.8,
+      "rsi": {
+        "v": "47.5 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 47.5. Below 50 = momentum weak. ATR = \u20b9109.23. VWMA9=2411.77, VWMA20=2389.92, VWMA50=2414.55.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=2411.77, VWMA20=2389.92, VWMA50=2414.55. CMP=2331.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "38.97x",
+        "c": "pr",
+        "t": "P/E of 38.97: you pay \u20b938.97 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "83.0%",
+        "c": "pg",
+        "t": "Dividend yield 83.0% \u2014 \u20b98300.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+16.4%",
+      "risk": "high",
+      "risk_reason": "Score 6.6/10. Disc from 52W high: 37.8%. ROE: 0.0%. D/E: 0.0. RSI: 47.5. ATR: 109.23.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b99.4L Cr",
+      "eps": 59.83,
+      "pb": 10.56,
+      "fetched_at": "2026-03-16T21:35:59.613589"
+    },
+    {
+      "name": "Bharti Airtel",
+      "nse": "BHARTIARTL",
+      "cmp": 1788.8,
+      "tgt": 1960.72,
+      "sl": 1715.12,
+      "sig": "w",
+      "score": 6.6,
+      "stars": {
+        "o": 3.0,
+        "f": 75,
+        "t": 40,
+        "g": 68
+      },
+      "sector": "realty",
+      "sector_tag": "Telecom",
+      "pattern": "Base Accumulation",
+      "high52w": 2174.5,
+      "low52w": 1598.83,
+      "high_date": "Nov '25",
+      "disc": 17.7,
+      "rsi": {
+        "v": "24.4 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 24.4. Below 50 = momentum weak. ATR = \u20b949.12. VWMA9=1848.48, VWMA20=1884.41, VWMA50=1950.88.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1848.48, VWMA20=1884.41, VWMA50=1950.88. CMP=1788.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "35.3x",
+        "c": "pr",
+        "t": "P/E of 35.3: you pay \u20b935.3 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "23.1%",
+        "c": "pg",
+        "t": "ROE 23.1% \u2014 for every \u20b9100 shareholders own, company earns \u20b923.1 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "1.17",
+        "c": "pa",
+        "t": "Debt/Equity = 1.17. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "89.0%",
+        "c": "pg",
+        "t": "Dividend yield 89.0% \u2014 \u20b98900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.6%",
+      "risk": "high",
+      "risk_reason": "Score 6.6/10. Disc from 52W high: 17.7%. ROE: 23.1%. D/E: 1.17. RSI: 24.4. ATR: 49.12.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b9109.0L Cr",
+      "eps": 50.68,
+      "pb": 8.73,
+      "fetched_at": "2026-03-16T21:36:19.330421"
+    },
+    {
+      "name": "Indus Towers",
+      "nse": "INDUSTOWER",
+      "cmp": 427.1,
+      "tgt": 475.23,
+      "sl": 406.48,
+      "sig": "w",
+      "score": 6.6,
+      "stars": {
+        "o": 3.0,
+        "f": 70,
+        "t": 40,
+        "g": 68
+      },
+      "sector": "realty",
+      "sector_tag": "Tower Infra",
+      "pattern": "Base Accumulation",
+      "high52w": 481.5,
+      "low52w": 312.55,
+      "high_date": "Feb '26",
+      "disc": 11.3,
+      "rsi": {
+        "v": "38.0 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 38.0. Below 50 = momentum weak. ATR = \u20b913.75. VWMA9=440.03, VWMA20=457.61, VWMA50=443.14.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=440.03, VWMA20=457.61, VWMA50=443.14. CMP=427.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "15.77x",
+        "c": "pa",
+        "t": "P/E of 15.77: you pay \u20b915.77 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "20.3%",
+        "c": "pg",
+        "t": "ROE 20.3% \u2014 for every \u20b9100 shareholders own, company earns \u20b920.3 annually. Excellent.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.55",
+        "c": "pa",
+        "t": "Debt/Equity = 0.55. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "0%",
+        "c": "pr",
+        "t": "Dividend yield 0.0% \u2014 \u20b90 cash per \u20b91 lakh invested annually. Growth play \u2014 minimal income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.3%",
+      "risk": "high",
+      "risk_reason": "Score 6.6/10. Disc from 52W high: 11.3%. ROE: 20.3%. D/E: 0.55. RSI: 38.0. ATR: 13.75.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b911.3L Cr",
+      "eps": 27.09,
+      "pb": 2.97,
+      "fetched_at": "2026-03-16T21:36:20.581002"
+    },
+    {
+      "name": "Hindalco",
+      "nse": "HINDALCO",
+      "cmp": 921.15,
+      "tgt": 1040.92,
+      "sl": 869.82,
+      "sig": "w",
+      "score": 6.5,
+      "stars": {
+        "o": 2.5,
+        "f": 60,
+        "t": 45,
+        "g": 48
+      },
+      "sector": "metals",
+      "sector_tag": "Metals",
+      "pattern": "Base Accumulation",
+      "high52w": 1029.8,
+      "low52w": 542.47,
+      "high_date": "Jan '26",
+      "disc": 10.6,
+      "rsi": {
+        "v": "46.5 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 46.5. Below 50 = momentum weak. ATR = \u20b934.22. VWMA9=941.28, VWMA20=931.7, VWMA50=943.5.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=941.28, VWMA20=931.7, VWMA50=943.5. CMP=921.15. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "12.75x",
+        "c": "pg",
+        "t": "P/E of 12.75: you pay \u20b912.75 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.58",
+        "c": "pa",
+        "t": "Debt/Equity = 0.58. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "55.0%",
+        "c": "pg",
+        "t": "Dividend yield 55.0% \u2014 \u20b95500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.5/10. Disc from 52W high: 10.6%. ROE: 0.0%. D/E: 0.58. RSI: 46.5. ATR: 34.22.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b920.6L Cr",
+      "eps": 72.26,
+      "pb": 1.52,
+      "fetched_at": "2026-03-16T21:35:47.453862"
+    },
+    {
+      "name": "ideaForge Technology",
+      "nse": "IDEAFORGE",
+      "cmp": 392.5,
+      "tgt": 478.25,
+      "sl": 355.75,
+      "sig": "w",
+      "score": 6.5,
+      "stars": {
+        "o": 1.5,
+        "f": 30,
+        "t": 40,
+        "g": 18
+      },
+      "sector": "newage",
+      "sector_tag": "Drones",
+      "pattern": "Base Accumulation",
+      "high52w": 659.85,
+      "low52w": 304.2,
+      "high_date": "Jun '25",
+      "disc": 40.5,
+      "rsi": {
+        "v": "37.2 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 37.2. Below 50 = momentum weak. ATR = \u20b924.5. VWMA9=444.15, VWMA20=440.89, VWMA50=443.34.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=444.15, VWMA20=440.89, VWMA50=443.34. CMP=392.5. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "27.64x",
+        "c": "pa",
+        "t": "P/E of 27.64: you pay \u20b927.64 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.08",
+        "c": "pg",
+        "t": "Debt/Equity = 0.08. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "0%",
+        "c": "pr",
+        "t": "Dividend yield 0.0% \u2014 \u20b90 cash per \u20b91 lakh invested annually. Growth play \u2014 minimal income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+21.8%",
+      "risk": "high",
+      "risk_reason": "Score 6.5/10. Disc from 52W high: 40.5%. ROE: 0.0%. D/E: 0.08. RSI: 37.2. ATR: 24.5.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b917Bn",
+      "eps": -23.68,
+      "pb": 3.02,
+      "fetched_at": "2026-03-16T21:36:14.068184"
+    },
+    {
+      "name": "SBI",
+      "nse": "SBIN",
+      "cmp": 1066.7,
+      "tgt": 1176.53,
+      "sl": 1019.63,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.5,
+        "f": 65,
+        "t": 40,
+        "g": 48
+      },
+      "sector": "banking",
+      "sector_tag": "Banking",
+      "pattern": "Base Accumulation",
+      "high52w": 1234.7,
+      "low52w": 708.08,
+      "high_date": "Feb '26",
+      "disc": 13.6,
+      "rsi": {
+        "v": "36.4 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 36.4. Below 50 = momentum weak. ATR = \u20b931.38. VWMA9=1112.91, VWMA20=1161.29, VWMA50=1120.97.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1112.91, VWMA20=1161.29, VWMA50=1120.97. CMP=1066.7. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "11.62x",
+        "c": "pg",
+        "t": "P/E of 11.62: you pay \u20b911.62 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "152.0%",
+        "c": "pg",
+        "t": "Dividend yield 152.0% \u2014 \u20b915200.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+10.3%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 13.6%. ROE: 0.0%. D/E: 0.0. RSI: 36.4. ATR: 31.38.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b998.5L Cr",
+      "eps": 91.82,
+      "pb": 1.66,
+      "fetched_at": "2026-03-16T21:35:04.787410"
+    },
+    {
+      "name": "Cipla",
+      "nse": "CIPLA",
+      "cmp": 1300.0,
+      "tgt": 1390.68,
+      "sl": 1261.13,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.5,
+        "f": 55,
+        "t": 40,
+        "g": 38
+      },
+      "sector": "pharma",
+      "sector_tag": "Pharma",
+      "pattern": "Base Accumulation",
+      "high52w": 1673.0,
+      "low52w": 1281.7,
+      "high_date": "Oct '25",
+      "disc": 22.3,
+      "rsi": {
+        "v": "36.3 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 36.3. Below 50 = momentum weak. ATR = \u20b925.91. VWMA9=1319.9, VWMA20=1334.12, VWMA50=1366.09.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1319.9, VWMA20=1334.12, VWMA50=1366.09. CMP=1300.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "23.1x",
+        "c": "pa",
+        "t": "P/E of 23.1: you pay \u20b923.1 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.01",
+        "c": "pg",
+        "t": "Debt/Equity = 0.01. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "99.0%",
+        "c": "pg",
+        "t": "Dividend yield 99.0% \u2014 \u20b99900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+7.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 22.3%. ROE: 0.0%. D/E: 0.01. RSI: 36.3. ATR: 25.91.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b910.5L Cr",
+      "eps": 56.27,
+      "pb": 3.19,
+      "fetched_at": "2026-03-16T21:35:19.982503"
+    },
+    {
+      "name": "Sun Pharma",
+      "nse": "SUNPHARMA",
+      "cmp": 1783.2,
+      "tgt": 1913.79,
+      "sl": 1727.24,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.5,
+        "f": 45,
+        "t": 80,
+        "g": 28
+      },
+      "sector": "pharma",
+      "sector_tag": "Pharma",
+      "pattern": "Base Accumulation",
+      "high52w": 1843.0,
+      "low52w": 1538.01,
+      "high_date": "Mar '26",
+      "disc": 3.2,
+      "rsi": {
+        "v": "56.9 \u2014 Bullish",
+        "c": "pg",
+        "t": "RSI is at 56.9. Above 50 = momentum positive. ATR = \u20b937.31. VWMA9=1795.46, VWMA20=1772.58, VWMA50=1705.39.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "20 & 50 \u2713",
+        "c": "pa",
+        "t": "VWMA9=1795.46, VWMA20=1772.58, VWMA50=1705.39. CMP=1783.2. Partial alignment = cautious.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "39.12x",
+        "c": "pr",
+        "t": "P/E of 39.12: you pay \u20b939.12 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.07",
+        "c": "pg",
+        "t": "Debt/Equity = 0.07. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "92.0%",
+        "c": "pg",
+        "t": "Dividend yield 92.0% \u2014 \u20b99200.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+7.3%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 3.2%. ROE: 0.0%. D/E: 0.07. RSI: 56.9. ATR: 37.31.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b942.8L Cr",
+      "eps": 45.58,
+      "pb": 5.5,
+      "fetched_at": "2026-03-16T21:35:22.615415"
+    },
+    {
+      "name": "Tata Steel",
+      "nse": "TATASTEEL",
+      "cmp": 186.94,
+      "tgt": 211.75,
+      "sl": 176.31,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.5,
+        "f": 60,
+        "t": 40,
+        "g": 60
+      },
+      "sector": "metals",
+      "sector_tag": "Steel",
+      "pattern": "Base Accumulation",
+      "high52w": 216.45,
+      "low52w": 122.44,
+      "high_date": "Feb '26",
+      "disc": 13.6,
+      "rsi": {
+        "v": "39.2 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 39.2. Below 50 = momentum weak. ATR = \u20b97.09. VWMA9=193.27, VWMA20=201.1, VWMA50=196.57.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=193.27, VWMA20=201.1, VWMA50=196.57. CMP=186.94. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "0.3x",
+        "c": "pg",
+        "t": "P/E of 0.3: you pay \u20b90.3 for every \u20b91 of annual profit. Cheap.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "1.0",
+        "c": "pa",
+        "t": "Debt/Equity = 1.0. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "196.0%",
+        "c": "pg",
+        "t": "Dividend yield 196.0% \u2014 \u20b919600.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.3%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 13.6%. ROE: 0.0%. D/E: 1.0. RSI: 39.2. ATR: 7.09.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b923.3L Cr",
+      "eps": 632.05,
+      "pb": 2.45,
+      "fetched_at": "2026-03-16T21:35:50.273641"
+    },
+    {
+      "name": "L&T",
+      "nse": "LT",
+      "cmp": 3469.4,
+      "tgt": 4029.58,
+      "sl": 3229.33,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 40,
+        "g": 38
+      },
+      "sector": "infra",
+      "sector_tag": "EPC",
+      "pattern": "Base Accumulation",
+      "high52w": 4440.0,
+      "low52w": 2937.9,
+      "high_date": "Feb '26",
+      "disc": 21.9,
+      "rsi": {
+        "v": "27.4 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 27.4. Below 50 = momentum weak. ATR = \u20b9160.05. VWMA9=3709.9, VWMA20=3912.17, VWMA50=3937.77.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=3709.9, VWMA20=3912.17, VWMA50=3937.77. CMP=3469.4. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "27.12x",
+        "c": "pa",
+        "t": "P/E of 27.12: you pay \u20b927.12 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "1.12",
+        "c": "pa",
+        "t": "Debt/Equity = 1.12. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "99.0%",
+        "c": "pg",
+        "t": "Dividend yield 99.0% \u2014 \u20b99900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+16.1%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 21.9%. ROE: 0.0%. D/E: 1.12. RSI: 27.4. ATR: 160.05.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b947.7L Cr",
+      "eps": 127.93,
+      "pb": 4.71,
+      "fetched_at": "2026-03-16T21:36:05.114548"
+    },
+    {
+      "name": "PI Industries",
+      "nse": "PIIND",
+      "cmp": 2890.1,
+      "tgt": 3150.71,
+      "sl": 2778.41,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "infra",
+      "sector_tag": "Chemicals",
+      "pattern": "Base Accumulation",
+      "high52w": 4312.31,
+      "low52w": 2840.1,
+      "high_date": "Jul '25",
+      "disc": 33.0,
+      "rsi": {
+        "v": "32.4 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 32.4. Below 50 = momentum weak. ATR = \u20b974.46. VWMA9=3001.37, VWMA20=3045.84, VWMA50=3130.74.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=3001.37, VWMA20=3045.84, VWMA50=3130.74. CMP=2890.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "30.24x",
+        "c": "pr",
+        "t": "P/E of 30.24: you pay \u20b930.24 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.02",
+        "c": "pg",
+        "t": "Debt/Equity = 0.02. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "52.0%",
+        "c": "pg",
+        "t": "Dividend yield 52.0% \u2014 \u20b95200.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 33.0%. ROE: 0.0%. D/E: 0.02. RSI: 32.4. ATR: 74.46.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b94.4L Cr",
+      "eps": 95.58,
+      "pb": 4.05,
+      "fetched_at": "2026-03-16T21:36:10.203678"
+    },
+    {
+      "name": "Dixon Technologies",
+      "nse": "DIXON",
+      "cmp": 10263.0,
+      "tgt": 11927.01,
+      "sl": 9549.85,
+      "sig": "w",
+      "score": 6.4,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "newage",
+      "sector_tag": "EMS",
+      "pattern": "Base Accumulation",
+      "high52w": 18471.0,
+      "low52w": 9630.0,
+      "high_date": "Sep '25",
+      "disc": 44.4,
+      "rsi": {
+        "v": "43.6 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 43.6. Below 50 = momentum weak. ATR = \u20b9475.43. VWMA9=10490.9, VWMA20=10636.57, VWMA50=10937.95.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=10490.9, VWMA20=10636.57, VWMA50=10937.95. CMP=10263.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "37.32x",
+        "c": "pr",
+        "t": "P/E of 37.32: you pay \u20b937.32 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.3",
+        "c": "pg",
+        "t": "Debt/Equity = 0.3. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "8.0%",
+        "c": "pg",
+        "t": "Dividend yield 8.0% \u2014 \u20b9800.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+16.2%",
+      "risk": "high",
+      "risk_reason": "Score 6.4/10. Disc from 52W high: 44.4%. ROE: 0.0%. D/E: 0.3. RSI: 43.6. ATR: 475.43.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b96.2L Cr",
+      "eps": 274.99,
+      "pb": 13.69,
+      "fetched_at": "2026-03-16T21:36:15.343120"
+    },
+    {
+      "name": "GRSE",
+      "nse": "GRSE",
+      "cmp": 2304.5,
+      "tgt": 2663.91,
+      "sl": 2150.47,
+      "sig": "w",
+      "score": 6.3,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "defence",
+      "sector_tag": "Shipbuilding",
+      "pattern": "Base Accumulation",
+      "high52w": 3513.72,
+      "low52w": 1294.01,
+      "high_date": "Jun '25",
+      "disc": 34.4,
+      "rsi": {
+        "v": "40.8 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 40.8. Below 50 = momentum weak. ATR = \u20b9102.69. VWMA9=2448.52, VWMA20=2446.44, VWMA50=2484.45.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=2448.52, VWMA20=2446.44, VWMA50=2484.45. CMP=2304.5. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "38.38x",
+        "c": "pr",
+        "t": "P/E of 38.38: you pay \u20b938.38 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.01",
+        "c": "pg",
+        "t": "Debt/Equity = 0.01. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "116.0%",
+        "c": "pg",
+        "t": "Dividend yield 116.0% \u2014 \u20b911600.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+15.6%",
+      "risk": "high",
+      "risk_reason": "Score 6.3/10. Disc from 52W high: 34.4%. ROE: 0.0%. D/E: 0.01. RSI: 40.8. ATR: 102.69.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b92.6L Cr",
+      "eps": 60.04,
+      "pb": 11.49,
+      "fetched_at": "2026-03-16T21:36:03.857393"
+    },
+    {
+      "name": "Gland Pharma",
+      "nse": "GLAND",
+      "cmp": 1609.2,
+      "tgt": 1812.52,
+      "sl": 1522.07,
+      "sig": "w",
+      "score": 6.2,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "pharma",
+      "sector_tag": "Pharma",
+      "pattern": "Base Accumulation",
+      "high52w": 2111.33,
+      "low52w": 1266.01,
+      "high_date": "Jul '25",
+      "disc": 23.8,
+      "rsi": {
+        "v": "29.2 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 29.2. Below 50 = momentum weak. ATR = \u20b958.09. VWMA9=1667.15, VWMA20=1747.07, VWMA50=1775.59.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1667.15, VWMA20=1747.07, VWMA50=1775.59. CMP=1609.2. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "31.31x",
+        "c": "pr",
+        "t": "P/E of 31.31: you pay \u20b931.31 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.03",
+        "c": "pg",
+        "t": "Debt/Equity = 0.03. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "111.0%",
+        "c": "pg",
+        "t": "Dividend yield 111.0% \u2014 \u20b911100.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+12.6%",
+      "risk": "high",
+      "risk_reason": "Score 6.2/10. Disc from 52W high: 23.8%. ROE: 0.0%. D/E: 0.03. RSI: 29.2. ATR: 58.09.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b92.7L Cr",
+      "eps": 51.4,
+      "pb": 2.77,
+      "fetched_at": "2026-03-16T21:35:21.279272"
+    },
+    {
+      "name": "Eicher Motors",
+      "nse": "EICHERMOT",
+      "cmp": 6827.5,
+      "tgt": 7743.14,
+      "sl": 6435.09,
+      "sig": "w",
+      "score": 6.2,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "auto",
+      "sector_tag": "Auto",
+      "pattern": "Base Accumulation",
+      "high52w": 8230.0,
+      "low52w": 4871.83,
+      "high_date": "Feb '26",
+      "disc": 17.0,
+      "rsi": {
+        "v": "34.7 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 34.7. Below 50 = momentum weak. ATR = \u20b9261.61. VWMA9=7196.32, VWMA20=7542.09, VWMA50=7478.58.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=7196.32, VWMA20=7542.09, VWMA50=7478.58. CMP=6827.5. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "35.05x",
+        "c": "pr",
+        "t": "P/E of 35.05: you pay \u20b935.05 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.02",
+        "c": "pg",
+        "t": "Debt/Equity = 0.02. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "104.0%",
+        "c": "pg",
+        "t": "Dividend yield 104.0% \u2014 \u20b910400.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.4%",
+      "risk": "high",
+      "risk_reason": "Score 6.2/10. Disc from 52W high: 17.0%. ROE: 0.0%. D/E: 0.02. RSI: 34.7. ATR: 261.61.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b918.7L Cr",
+      "eps": 194.81,
+      "pb": 8.48,
+      "fetched_at": "2026-03-16T21:35:36.447641"
+    },
+    {
+      "name": "Torrent Power",
+      "nse": "TORNTPOWER",
+      "cmp": 1445.8,
+      "tgt": 1648.48,
+      "sl": 1358.93,
+      "sig": "w",
+      "score": 6.2,
+      "stars": {
+        "o": 2.0,
+        "f": 50,
+        "t": 45,
+        "g": 38
+      },
+      "sector": "energy",
+      "sector_tag": "Renewables",
+      "pattern": "Base Accumulation",
+      "high52w": 1617.43,
+      "low52w": 1175.82,
+      "high_date": "Apr '25",
+      "disc": 10.6,
+      "rsi": {
+        "v": "47.6 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 47.6. Below 50 = momentum weak. ATR = \u20b957.91. VWMA9=1472.0, VWMA20=1510.04, VWMA50=1440.28.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 50 only",
+        "c": "pr",
+        "t": "VWMA9=1472.0, VWMA20=1510.04, VWMA50=1440.28. CMP=1445.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "22.96x",
+        "c": "pa",
+        "t": "P/E of 22.96: you pay \u20b922.96 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.54",
+        "c": "pa",
+        "t": "Debt/Equity = 0.54. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "137.0%",
+        "c": "pg",
+        "t": "Dividend yield 137.0% \u2014 \u20b913700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+14.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.2/10. Disc from 52W high: 10.6%. ROE: 0.0%. D/E: 0.54. RSI: 47.6. ATR: 57.91.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b97.3L Cr",
+      "eps": 62.98,
+      "pb": 3.87,
+      "fetched_at": "2026-03-16T21:35:43.453633"
+    },
+    {
+      "name": "Dabur India",
+      "nse": "DABUR",
+      "cmp": 458.85,
+      "tgt": 504.14,
+      "sl": 439.44,
+      "sig": "w",
+      "score": 6.2,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "consumer",
+      "sector_tag": "FMCG",
+      "pattern": "Base Accumulation",
+      "high52w": 573.97,
+      "low52w": 426.74,
+      "high_date": "Sep '25",
+      "disc": 20.1,
+      "rsi": {
+        "v": "32.4 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 32.4. Below 50 = momentum weak. ATR = \u20b912.94. VWMA9=469.41, VWMA20=496.07, VWMA50=509.19.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=469.41, VWMA20=496.07, VWMA50=509.19. CMP=458.85. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "44.16x",
+        "c": "pr",
+        "t": "P/E of 44.16: you pay \u20b944.16 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.11",
+        "c": "pg",
+        "t": "Debt/Equity = 0.11. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "176.0%",
+        "c": "pg",
+        "t": "Dividend yield 176.0% \u2014 \u20b917600.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.9%",
+      "risk": "high",
+      "risk_reason": "Score 6.2/10. Disc from 52W high: 20.1%. ROE: 0.0%. D/E: 0.11. RSI: 32.4. ATR: 12.94.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b98.1L Cr",
+      "eps": 10.39,
+      "pb": 7.43,
+      "fetched_at": "2026-03-16T21:35:56.891106"
+    },
+    {
+      "name": "Kaynes Technology",
+      "nse": "KAYNES",
+      "cmp": 3555.0,
+      "tgt": 4123.19,
+      "sl": 3311.49,
+      "sig": "w",
+      "score": 6.2,
+      "stars": {
+        "o": 1.5,
+        "f": 30,
+        "t": 45,
+        "g": 8
+      },
+      "sector": "newage",
+      "sector_tag": "EMS",
+      "pattern": "Base Accumulation",
+      "high52w": 7705.0,
+      "low52w": 3294.9,
+      "high_date": "Oct '25",
+      "disc": 53.9,
+      "rsi": {
+        "v": "40.8 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 40.8. Below 50 = momentum weak. ATR = \u20b9162.34. VWMA9=3675.59, VWMA20=3788.6, VWMA50=3749.71.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=3675.59, VWMA20=3788.6, VWMA50=3749.71. CMP=3555.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "60.16x",
+        "c": "pr",
+        "t": "P/E of 60.16: you pay \u20b960.16 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.19",
+        "c": "pg",
+        "t": "Debt/Equity = 0.19. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "0%",
+        "c": "pr",
+        "t": "Dividend yield 0.0% \u2014 \u20b90 cash per \u20b91 lakh invested annually. Growth play \u2014 minimal income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+16.0%",
+      "risk": "high",
+      "risk_reason": "Score 6.2/10. Disc from 52W high: 53.9%. ROE: 0.0%. D/E: 0.19. RSI: 40.8. ATR: 162.34.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b92.4L Cr",
+      "eps": 59.09,
+      "pb": 4.97,
+      "fetched_at": "2026-03-16T21:36:11.580291"
+    },
+    {
+      "name": "HAL",
+      "nse": "HAL",
+      "cmp": 3913.1,
+      "tgt": 4296.81,
+      "sl": 3748.65,
+      "sig": "w",
+      "score": 6.1,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "defence",
+      "sector_tag": "Aerospace",
+      "pattern": "Base Accumulation",
+      "high52w": 5105.25,
+      "low52w": 3359.68,
+      "high_date": "May '25",
+      "disc": 23.4,
+      "rsi": {
+        "v": "40.3 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 40.3. Below 50 = momentum weak. ATR = \u20b9109.63. VWMA9=3957.2, VWMA20=3996.29, VWMA50=4144.68.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=3957.2, VWMA20=3996.29, VWMA50=4144.68. CMP=3913.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "29.4x",
+        "c": "pa",
+        "t": "P/E of 29.4: you pay \u20b929.4 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "128.0%",
+        "c": "pg",
+        "t": "Dividend yield 128.0% \u2014 \u20b912800.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+9.8%",
+      "risk": "high",
+      "risk_reason": "Score 6.1/10. Disc from 52W high: 23.4%. ROE: 0.0%. D/E: 0.0. RSI: 40.3. ATR: 109.63.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b926.2L Cr",
+      "eps": 133.09,
+      "pb": 7.05,
+      "fetched_at": "2026-03-16T21:35:58.375582"
+    },
+    {
+      "name": "Data Patterns",
+      "nse": "DATAPATTNS",
+      "cmp": 3095.9,
+      "tgt": 3749.03,
+      "sl": 2815.99,
+      "sig": "w",
+      "score": 6.1,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 60,
+        "g": 28
+      },
+      "sector": "defence",
+      "sector_tag": "Avionics",
+      "pattern": "Base Accumulation",
+      "high52w": 3609.5,
+      "low52w": 1388.09,
+      "high_date": "Mar '26",
+      "disc": 14.2,
+      "rsi": {
+        "v": "50.4 \u2014 Bullish",
+        "c": "pg",
+        "t": "RSI is at 50.4. Above 50 = momentum positive. ATR = \u20b9186.61. VWMA9=3367.68, VWMA20=3229.89, VWMA50=2935.48.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 50 only",
+        "c": "pr",
+        "t": "VWMA9=3367.68, VWMA20=3229.89, VWMA50=2935.48. CMP=3095.9. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "70.28x",
+        "c": "pr",
+        "t": "P/E of 70.28: you pay \u20b970.28 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "25.0%",
+        "c": "pg",
+        "t": "Dividend yield 25.0% \u2014 \u20b92500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+21.1%",
+      "risk": "high",
+      "risk_reason": "Score 6.1/10. Disc from 52W high: 14.2%. ROE: 0.0%. D/E: 0.0. RSI: 50.4. ATR: 186.61.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b91.7L Cr",
+      "eps": 44.05,
+      "pb": 11.27,
+      "fetched_at": "2026-03-16T21:36:02.323732"
+    },
+    {
+      "name": "Godrej Properties",
+      "nse": "GODREJPROP",
+      "cmp": 1560.0,
+      "tgt": 1779.66,
+      "sl": 1465.86,
+      "sig": "w",
+      "score": 6.1,
+      "stars": {
+        "o": 1.0,
+        "f": 25,
+        "t": 40,
+        "g": 8
+      },
+      "sector": "realty",
+      "sector_tag": "Real Estate",
+      "pattern": "Base Accumulation",
+      "high52w": 2506.5,
+      "low52w": 1476.2,
+      "high_date": "Jun '25",
+      "disc": 37.8,
+      "rsi": {
+        "v": "31.9 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 31.9. Below 50 = momentum weak. ATR = \u20b962.76. VWMA9=1660.09, VWMA20=1731.25, VWMA50=1736.05.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1660.09, VWMA20=1731.25, VWMA50=1736.05. CMP=1560.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "29.7x",
+        "c": "pa",
+        "t": "P/E of 29.7: you pay \u20b929.7 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.88",
+        "c": "pa",
+        "t": "Debt/Equity = 0.88. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "0%",
+        "c": "pr",
+        "t": "Dividend yield 0.0% \u2014 \u20b90 cash per \u20b91 lakh invested annually. Growth play \u2014 minimal income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+14.1%",
+      "risk": "high",
+      "risk_reason": "Score 6.1/10. Disc from 52W high: 37.8%. ROE: 0.0%. D/E: 0.88. RSI: 31.9. ATR: 62.76.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b94.7L Cr",
+      "eps": 52.53,
+      "pb": 2.57,
+      "fetched_at": "2026-03-16T21:36:16.603783"
+    },
+    {
+      "name": "Siemens India",
+      "nse": "SIEMENS",
+      "cmp": 3149.6,
+      "tgt": 3579.57,
+      "sl": 2965.32,
+      "sig": "w",
+      "score": 6.0,
+      "stars": {
+        "o": 2.5,
+        "f": 60,
+        "t": 45,
+        "g": 46
+      },
+      "sector": "infra",
+      "sector_tag": "Energy Tech",
+      "pattern": "Base Accumulation",
+      "high52w": 3440.0,
+      "low52w": 2450.0,
+      "high_date": "Feb '26",
+      "disc": 8.4,
+      "rsi": {
+        "v": "45.4 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 45.4. Below 50 = momentum weak. ATR = \u20b9122.85. VWMA9=3224.82, VWMA20=3266.37, VWMA50=3161.67.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=3224.82, VWMA20=3266.37, VWMA50=3161.67. CMP=3149.6. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "66.35x",
+        "c": "pr",
+        "t": "P/E of 66.35: you pay \u20b966.35 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "11.8%",
+        "c": "pr",
+        "t": "ROE 11.8% \u2014 for every \u20b9100 shareholders own, company earns \u20b911.8 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "39.0%",
+        "c": "pg",
+        "t": "Dividend yield 39.0% \u2014 \u20b93900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.7%",
+      "risk": "high",
+      "risk_reason": "Score 6.0/10. Disc from 52W high: 8.4%. ROE: 11.8%. D/E: 0.0. RSI: 45.4. ATR: 122.85.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b911.2L Cr",
+      "eps": 47.47,
+      "pb": 8.47,
+      "fetched_at": "2026-03-16T21:36:07.695824"
+    },
+    {
+      "name": "Mankind Pharma",
+      "nse": "MANKIND",
+      "cmp": 2094.7,
+      "tgt": 2336.59,
+      "sl": 1991.03,
+      "sig": "w",
+      "score": 5.9,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "pharma",
+      "sector_tag": "Pharma",
+      "pattern": "Base Accumulation",
+      "high52w": 2715.43,
+      "low52w": 2012.3,
+      "high_date": "Jul '25",
+      "disc": 22.9,
+      "rsi": {
+        "v": "43.6 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 43.6. Below 50 = momentum weak. ATR = \u20b969.11. VWMA9=2191.02, VWMA20=2191.24, VWMA50=2171.0.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=2191.02, VWMA20=2191.24, VWMA50=2171.0. CMP=2094.7. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "48.48x",
+        "c": "pr",
+        "t": "P/E of 48.48: you pay \u20b948.48 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.54",
+        "c": "pa",
+        "t": "Debt/Equity = 0.54. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "9.0%",
+        "c": "pg",
+        "t": "Dividend yield 9.0% \u2014 \u20b9900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.5%",
+      "risk": "high",
+      "risk_reason": "Score 5.9/10. Disc from 52W high: 22.9%. ROE: 0.0%. D/E: 0.54. RSI: 43.6. ATR: 69.11.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b98.6L Cr",
+      "eps": 43.21,
+      "pb": 5.66,
+      "fetched_at": "2026-03-16T21:35:23.958131"
+    },
+    {
+      "name": "Prestige Estates",
+      "nse": "PRESTIGE",
+      "cmp": 1250.3,
+      "tgt": 1432.55,
+      "sl": 1172.19,
+      "sig": "w",
+      "score": 5.9,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 36
+      },
+      "sector": "realty",
+      "sector_tag": "Real Estate",
+      "pattern": "Base Accumulation",
+      "high52w": 1811.91,
+      "low52w": 1046.85,
+      "high_date": "Jul '25",
+      "disc": 31.0,
+      "rsi": {
+        "v": "22.8 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 22.8. Below 50 = momentum weak. ATR = \u20b952.07. VWMA9=1290.2, VWMA20=1362.27, VWMA50=1446.63.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1290.2, VWMA20=1362.27, VWMA50=1446.63. CMP=1250.3. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "55.57x",
+        "c": "pr",
+        "t": "P/E of 55.57: you pay \u20b955.57 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "6.3%",
+        "c": "pr",
+        "t": "ROE 6.3% \u2014 for every \u20b9100 shareholders own, company earns \u20b96.3 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.89",
+        "c": "pa",
+        "t": "Debt/Equity = 0.89. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "14.0%",
+        "c": "pg",
+        "t": "Dividend yield 14.0% \u2014 \u20b91400.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+14.6%",
+      "risk": "high",
+      "risk_reason": "Score 5.9/10. Disc from 52W high: 31.0%. ROE: 6.3%. D/E: 0.89. RSI: 22.8. ATR: 52.07.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b95.4L Cr",
+      "eps": 22.5,
+      "pb": 3.4,
+      "fetched_at": "2026-03-16T21:36:17.966478"
+    },
+    {
+      "name": "Marico",
+      "nse": "MARICO",
+      "cmp": 750.1,
+      "tgt": 807.01,
+      "sl": 725.71,
+      "sig": "w",
+      "score": 5.8,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "consumer",
+      "sector_tag": "FMCG",
+      "pattern": "Base Accumulation",
+      "high52w": 813.5,
+      "low52w": 595.07,
+      "high_date": "Feb '26",
+      "disc": 7.8,
+      "rsi": {
+        "v": "40.7 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 40.7. Below 50 = momentum weak. ATR = \u20b916.26. VWMA9=767.25, VWMA20=779.48, VWMA50=760.73.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=767.25, VWMA20=779.48, VWMA50=760.73. CMP=750.1. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "56.65x",
+        "c": "pr",
+        "t": "P/E of 56.65: you pay \u20b956.65 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.14",
+        "c": "pg",
+        "t": "Debt/Equity = 0.14. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "140.0%",
+        "c": "pg",
+        "t": "Dividend yield 140.0% \u2014 \u20b914000.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+7.6%",
+      "risk": "high",
+      "risk_reason": "Score 5.8/10. Disc from 52W high: 7.8%. ROE: 0.0%. D/E: 0.14. RSI: 40.7. ATR: 16.26.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b99.7L Cr",
+      "eps": 13.24,
+      "pb": 24.0,
+      "fetched_at": "2026-03-16T21:35:55.518011"
+    },
+    {
+      "name": "BEL",
+      "nse": "BEL",
+      "cmp": 429.5,
+      "tgt": 478.39,
+      "sl": 408.55,
+      "sig": "w",
+      "score": 5.8,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "defence",
+      "sector_tag": "Electronics",
+      "pattern": "Base Accumulation",
+      "high52w": 473.45,
+      "low52w": 254.52,
+      "high_date": "Mar '26",
+      "disc": 9.3,
+      "rsi": {
+        "v": "43.2 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 43.2. Below 50 = momentum weak. ATR = \u20b913.97. VWMA9=452.42, VWMA20=448.37, VWMA50=435.72.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=452.42, VWMA20=448.37, VWMA50=435.72. CMP=429.5. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "52.57x",
+        "c": "pr",
+        "t": "P/E of 52.57: you pay \u20b952.57 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.0",
+        "c": "pg",
+        "t": "Debt/Equity = 0.0. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "99.0%",
+        "c": "pg",
+        "t": "Dividend yield 99.0% \u2014 \u20b99900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.4%",
+      "risk": "high",
+      "risk_reason": "Score 5.8/10. Disc from 52W high: 9.3%. ROE: 0.0%. D/E: 0.0. RSI: 43.2. ATR: 13.97.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b931.4L Cr",
+      "eps": 8.17,
+      "pb": 14.57,
+      "fetched_at": "2026-03-16T21:36:00.995716"
+    },
+    {
+      "name": "Syrma SGS",
+      "nse": "SYRMA",
+      "cmp": 727.8,
+      "tgt": 852.85,
+      "sl": 674.2,
+      "sig": "w",
+      "score": 5.8,
+      "stars": {
+        "o": 2.0,
+        "f": 45,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "newage",
+      "sector_tag": "EMS",
+      "pattern": "Base Accumulation",
+      "high52w": 909.9,
+      "low52w": 369.32,
+      "high_date": "Nov '25",
+      "disc": 20.0,
+      "rsi": {
+        "v": "37.5 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 37.5. Below 50 = momentum weak. ATR = \u20b935.73. VWMA9=744.6, VWMA20=787.44, VWMA50=778.69.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=744.6, VWMA20=787.44, VWMA50=778.69. CMP=727.8. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "47.6x",
+        "c": "pr",
+        "t": "P/E of 47.6: you pay \u20b947.6 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.11",
+        "c": "pg",
+        "t": "Debt/Equity = 0.11. Low debt \u2014 financially very safe.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "21.0%",
+        "c": "pg",
+        "t": "Dividend yield 21.0% \u2014 \u20b92100.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+17.2%",
+      "risk": "high",
+      "risk_reason": "Score 5.8/10. Disc from 52W high: 20.0%. ROE: 0.0%. D/E: 0.11. RSI: 37.5. ATR: 35.73.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b91.4L Cr",
+      "eps": 15.29,
+      "pb": 4.83,
+      "fetched_at": "2026-03-16T21:36:12.810254"
+    },
+    {
+      "name": "Apollo Hospitals",
+      "nse": "APOLLOHOSP",
+      "cmp": 7490.0,
+      "tgt": 8068.23,
+      "sl": 7242.19,
+      "sig": "w",
+      "score": 5.6,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "pharma",
+      "sector_tag": "Hospitals",
+      "pattern": "Base Accumulation",
+      "high52w": 8088.76,
+      "low52w": 5986.38,
+      "high_date": "Oct '25",
+      "disc": 7.4,
+      "rsi": {
+        "v": "45.6 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 45.6. Below 50 = momentum weak. ATR = \u20b9165.21. VWMA9=7660.7, VWMA20=7687.39, VWMA50=7351.57.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 50 only",
+        "c": "pr",
+        "t": "VWMA9=7660.7, VWMA20=7687.39, VWMA50=7351.57. CMP=7490.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "59.76x",
+        "c": "pr",
+        "t": "P/E of 59.76: you pay \u20b959.76 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.84",
+        "c": "pa",
+        "t": "Debt/Equity = 0.84. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "26.0%",
+        "c": "pg",
+        "t": "Dividend yield 26.0% \u2014 \u20b92600.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+7.7%",
+      "risk": "high",
+      "risk_reason": "Score 5.6/10. Disc from 52W high: 7.4%. ROE: 0.0%. D/E: 0.84. RSI: 45.6. ATR: 165.21.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b910.8L Cr",
+      "eps": 125.33,
+      "pb": 11.84,
+      "fetched_at": "2026-03-16T21:35:25.431284"
+    },
+    {
+      "name": "Britannia",
+      "nse": "BRITANNIA",
+      "cmp": 5842.0,
+      "tgt": 6287.52,
+      "sl": 5651.06,
+      "sig": "w",
+      "score": 5.6,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 45,
+        "g": 28
+      },
+      "sector": "consumer",
+      "sector_tag": "FMCG",
+      "pattern": "Base Accumulation",
+      "high52w": 6336.0,
+      "low52w": 4540.5,
+      "high_date": "Sep '25",
+      "disc": 7.8,
+      "rsi": {
+        "v": "42.5 \u2014 Neutral",
+        "c": "pa",
+        "t": "RSI is at 42.5. Below 50 = momentum weak. ATR = \u20b9127.29. VWMA9=5863.32, VWMA20=5960.37, VWMA50=5939.36.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=5863.32, VWMA20=5960.37, VWMA50=5939.36. CMP=5842.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "58.14x",
+        "c": "pr",
+        "t": "P/E of 58.14: you pay \u20b958.14 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.58",
+        "c": "pa",
+        "t": "Debt/Equity = 0.58. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "129.0%",
+        "c": "pg",
+        "t": "Dividend yield 129.0% \u2014 \u20b912900.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+7.6%",
+      "risk": "high",
+      "risk_reason": "Score 5.6/10. Disc from 52W high: 7.8%. ROE: 0.0%. D/E: 0.58. RSI: 42.5. ATR: 127.29.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b914.1L Cr",
+      "eps": 100.49,
+      "pb": 37.69,
+      "fetched_at": "2026-03-16T21:35:52.892085"
+    },
+    {
+      "name": "Bajaj Finance",
+      "nse": "BAJFINANCE",
+      "cmp": 878.15,
+      "tgt": 976.01,
+      "sl": 836.21,
+      "sig": "w",
+      "score": 5.4,
+      "stars": {
+        "o": 1.5,
+        "f": 28,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "banking",
+      "sector_tag": "NBFC",
+      "pattern": "Base Accumulation",
+      "high52w": 1102.5,
+      "low52w": 825.62,
+      "high_date": "Oct '25",
+      "disc": 20.3,
+      "rsi": {
+        "v": "32.3 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 32.3. Below 50 = momentum weak. ATR = \u20b927.96. VWMA9=908.16, VWMA20=956.58, VWMA50=959.24.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=908.16, VWMA20=956.58, VWMA50=959.24. CMP=878.15. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "30.29x",
+        "c": "pr",
+        "t": "P/E of 30.29: you pay \u20b930.29 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "3.1",
+        "c": "pr",
+        "t": "Debt/Equity = 3.1. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "51.0%",
+        "c": "pg",
+        "t": "Dividend yield 51.0% \u2014 \u20b95100.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.1%",
+      "risk": "high",
+      "risk_reason": "Score 5.4/10. Disc from 52W high: 20.3%. ROE: 0.0%. D/E: 3.1. RSI: 32.3. ATR: 27.96.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b954.6L Cr",
+      "eps": 28.99,
+      "pb": 5.28,
+      "fetched_at": "2026-03-16T21:35:08.754789"
+    },
+    {
+      "name": "Ashok Leyland",
+      "nse": "ASHOKLEY",
+      "cmp": 172.77,
+      "tgt": 199.86,
+      "sl": 161.16,
+      "sig": "w",
+      "score": 5.4,
+      "stars": {
+        "o": 1.5,
+        "f": 28,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "auto",
+      "sector_tag": "Auto",
+      "pattern": "Base Accumulation",
+      "high52w": 215.42,
+      "low52w": 93.63,
+      "high_date": "Feb '26",
+      "disc": 19.8,
+      "rsi": {
+        "v": "30.8 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 30.8. Below 50 = momentum weak. ATR = \u20b97.74. VWMA9=186.04, VWMA20=194.1, VWMA50=194.74.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=186.04, VWMA20=194.1, VWMA50=194.74. CMP=172.77. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "30.69x",
+        "c": "pr",
+        "t": "P/E of 30.69: you pay \u20b930.69 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "3.28",
+        "c": "pr",
+        "t": "Debt/Equity = 3.28. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "183.0%",
+        "c": "pg",
+        "t": "Dividend yield 183.0% \u2014 \u20b918300.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+15.7%",
+      "risk": "high",
+      "risk_reason": "Score 5.4/10. Disc from 52W high: 19.8%. ROE: 0.0%. D/E: 3.28. RSI: 30.8. ATR: 7.74.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b910.1L Cr",
+      "eps": 5.63,
+      "pb": 8.04,
+      "fetched_at": "2026-03-16T21:35:35.185860"
+    },
+    {
+      "name": "Bajaj Auto",
+      "nse": "BAJAJAUTO",
+      "cmp": 9073.0,
+      "tgt": 10089.26,
+      "sl": 8637.46,
+      "sig": "w",
+      "score": 5.3,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "auto",
+      "sector_tag": "Auto",
+      "pattern": "Base Accumulation",
+      "high52w": 10187.0,
+      "low52w": 6914.12,
+      "high_date": "Feb '26",
+      "disc": 10.9,
+      "rsi": {
+        "v": "38.6 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 38.6. Below 50 = momentum weak. ATR = \u20b9290.36. VWMA9=9375.15, VWMA20=9591.42, VWMA50=9571.62.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=9375.15, VWMA20=9591.42, VWMA50=9571.62. CMP=9073.0. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "28.56x",
+        "c": "pa",
+        "t": "P/E of 28.56: you pay \u20b928.56 for every \u20b91 of annual profit. Fair.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "0.57",
+        "c": "pa",
+        "t": "Debt/Equity = 0.57. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "237.0%",
+        "c": "pg",
+        "t": "Dividend yield 237.0% \u2014 \u20b923700.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.2%",
+      "risk": "high",
+      "risk_reason": "Score 5.3/10. Disc from 52W high: 10.9%. ROE: 0.0%. D/E: 0.57. RSI: 38.6. ATR: 290.36.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b925.3L Cr",
+      "eps": 317.72,
+      "pb": 7.41,
+      "fetched_at": "2026-03-16T21:35:32.625132"
+    },
+    {
+      "name": "Adani Green Energy",
+      "nse": "ADANIGREEN",
+      "cmp": 866.95,
+      "tgt": 985.22,
+      "sl": 816.27,
+      "sig": "w",
+      "score": 5.2,
+      "stars": {
+        "o": 1.0,
+        "f": 18,
+        "t": 40,
+        "g": 8
+      },
+      "sector": "energy",
+      "sector_tag": "Renewables",
+      "pattern": "Base Accumulation",
+      "high52w": 1177.55,
+      "low52w": 765.0,
+      "high_date": "Sep '25",
+      "disc": 26.4,
+      "rsi": {
+        "v": "39.3 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 39.3. Below 50 = momentum weak. ATR = \u20b933.79. VWMA9=864.01, VWMA20=905.18, VWMA50=885.45.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Above 9 only",
+        "c": "pr",
+        "t": "VWMA9=864.01, VWMA20=905.18, VWMA50=885.45. CMP=866.95. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "100.69x",
+        "c": "pr",
+        "t": "P/E of 100.69: you pay \u20b9100.69 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "2.96",
+        "c": "pr",
+        "t": "Debt/Equity = 2.96. High leverage \u2014 monitor carefully.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "0%",
+        "c": "pr",
+        "t": "Dividend yield 0.0% \u2014 \u20b90 cash per \u20b91 lakh invested annually. Growth play \u2014 minimal income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+13.6%",
+      "risk": "high",
+      "risk_reason": "Score 5.2/10. Disc from 52W high: 26.4%. ROE: 0.0%. D/E: 2.96. RSI: 39.3. ATR: 33.79.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b914.3L Cr",
+      "eps": 8.61,
+      "pb": 7.58,
+      "fetched_at": "2026-03-16T21:35:42.006517"
+    },
+    {
+      "name": "JSW Steel",
+      "nse": "JSWSTEEL",
+      "cmp": 1145.6,
+      "tgt": 1272.93,
+      "sl": 1091.03,
+      "sig": "w",
+      "score": 5.1,
+      "stars": {
+        "o": 2.0,
+        "f": 40,
+        "t": 40,
+        "g": 28
+      },
+      "sector": "metals",
+      "sector_tag": "Steel",
+      "pattern": "Base Accumulation",
+      "high52w": 1284.7,
+      "low52w": 902.77,
+      "high_date": "Feb '26",
+      "disc": 10.8,
+      "rsi": {
+        "v": "38.2 \u2014 Oversold",
+        "c": "pr",
+        "t": "RSI is at 38.2. Below 50 = momentum weak. ATR = \u20b936.38. VWMA9=1183.73, VWMA20=1217.9, VWMA50=1208.93.",
+        "std": "50-70 = healthy uptrend. Below 40 = oversold (cheap). Above 80 = overbought (expensive)."
+      },
+      "vwma": {
+        "v": "Below all",
+        "c": "pr",
+        "t": "VWMA9=1183.73, VWMA20=1217.9, VWMA50=1208.93. CMP=1145.6. Below key averages = weak trend.",
+        "std": "All 3 pointing up = strong bull trend. Mixed = caution. All pointing down = avoid."
+      },
+      "pe": {
+        "v": "37.63x",
+        "c": "pr",
+        "t": "P/E of 37.63: you pay \u20b937.63 for every \u20b91 of annual profit. Expensive.",
+        "std": "Below 15x = cheap. 15-25x = fair. Above 35x = expensive."
+      },
+      "roe": {
+        "v": "N/A",
+        "c": "pr",
+        "t": "ROE 0.0% \u2014 for every \u20b9100 shareholders own, company earns \u20b90.0 annually. Below average.",
+        "std": "Above 20% = excellent. 15-20% = good. 10-15% = average. Below 10% = poor."
+      },
+      "de": {
+        "v": "1.19",
+        "c": "pa",
+        "t": "Debt/Equity = 1.19. Moderate debt.",
+        "std": "Below 0.5 = safe. 0.5-2 = moderate. Above 3 = risky (except banks/NBFCs)."
+      },
+      "div": {
+        "v": "25.0%",
+        "c": "pg",
+        "t": "Dividend yield 25.0% \u2014 \u20b92500.0 cash per \u20b91 lakh invested annually. Excellent income.",
+        "std": "Above 3% = excellent income. 1-3% = balanced. Below 1% = growth play only."
+      },
+      "upside": "+11.1%",
+      "risk": "high",
+      "risk_reason": "Score 5.1/10. Disc from 52W high: 10.8%. ROE: 0.0%. D/E: 1.19. RSI: 38.2. ATR: 36.38.",
+      "horizon": "Jun\u2013Dec 2026",
+      "mcap": "\u20b928.0L Cr",
+      "eps": 30.44,
+      "pb": 3.37,
+      "fetched_at": "2026-03-16T21:35:48.696830"
+    }
+  ]
+}
