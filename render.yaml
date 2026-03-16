@@ -11,7 +11,4 @@ services:
         value: pavan
       - key: APP_PASSWORD
         value: swing2026
-    disk:
-      name: swingdata
-      mountPath: /opt/render/project/src/static
-      sizeGB: 1
+ 
